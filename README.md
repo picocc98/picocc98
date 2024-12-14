@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @picocc98
-- 👀 I’m interested in GameDev
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 <!---
 picocc98/picocc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
